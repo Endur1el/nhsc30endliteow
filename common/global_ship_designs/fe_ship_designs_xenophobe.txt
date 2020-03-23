@@ -66,11 +66,11 @@ ship_design = {
 		}
 		component = {
 			slot = "STRIKE_CRAFT_01"
-			template = "NHSC_BOMBERS_HANGAR_5"
+			template = "NHSC_FIGHTERS_HANGAR_5"
 		}
 		component = {
 			slot = "STRIKE_CRAFT_02"
-			template = "NHSC_BOMBERS_HANGAR_5"
+			template = "NHSC_FIGHTERS_HANGAR_5"
 		}
 		component = {
 			slot = "STRIKE_CRAFT_03"
@@ -243,7 +243,7 @@ ship_design = {
 
 		component = {
 			slot = "STRIKE_CRAFT_01"
-			template = "NHSC_BOMBERS_HANGAR_5"
+			template = "NHSC_FIGHTERS_HANGAR_5"
 		}
 		component = {
 			slot = "STRIKE_CRAFT_02"
